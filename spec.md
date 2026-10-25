@@ -1,7 +1,7 @@
 # Service Specification — Lab 2
 
 Author: Abdrakhmanova Adel
-Version: 1
+Version: 2
 
 ## 1. Purpose
 
